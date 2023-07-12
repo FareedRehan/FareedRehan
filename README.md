@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FareedRehan
 - 👀 I’m interested in the use of Artificial Intelligence tools in Public Health.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on python Coding.
+- 💞️ I’m looking to collaborate on Python Coding.
 - 📫 How to reach me: fareed.rehan@dci-student.org
 
 <!---
